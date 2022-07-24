@@ -12,3 +12,5 @@ const sumarInputValues = (e) => {
 };
 
 form.addEventListener("click", sumarInputValues);
+
+console.log("hola");
